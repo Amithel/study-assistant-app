@@ -51,7 +51,7 @@ class MainActivity : ComponentActivity() {
 }
 
 object build {
-    val apiKey = "AIzaSyCOJ5Dp0QlC6jbuaA17wpiiJq8fjNqKN6s"
+    val apiKey = "YOUR_ACTUAL_API_KEY_HERE"
 }
 
 @Composable
