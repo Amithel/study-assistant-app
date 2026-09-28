@@ -1,0 +1,12 @@
+# Gradle cache & build outputs
+.gradle/
+build/
+app/build/
+
+# Local configuration & IDE files
+.idea/
+*.iml
+local.properties
+
+# Log files
+*.log
